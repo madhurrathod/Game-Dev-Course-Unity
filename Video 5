@@ -1,0 +1,11 @@
+Video link:- https://youtu.be/DiK9g8OtwNA
+
+We understood a bit of collision, adding rigidbody component and physic material.
+Collision will be done again in more depth.
+
+Physic material - for bouncy effect
+rigidbody - for giving gravity(physics)
+collider - to detect collision between two game objects like a cube and plane and make the cube stop when it hits ground.
+cube having collider - box collider (shape like a box)
+capsule having collider - capsule collider (shape like a capsule)
+plane having collider - Mesh collider (shape is like a 2d plane)
