@@ -8,7 +8,7 @@ Course is work in progress.
 Video 1: 
   - Installing Unity & setup
 
-Video 2:
+[Video 2]([url](https://github.com/madhurrathod/Game-Dev-Course-Unity/blob/main/Video%202/Video2.cs)):
   - C# script basics
     - print 
     - Variables & data type (int,float,string)
