@@ -1,3 +1,4 @@
+// Video Link: https://www.youtube.com/watch?v=PCQ32PB9cIU&list=PLE88AN3qf5885q17x_xs3b2KqIiRzZwqu&index=8&ab_channel=MadhurSensei
 using UnityEngine;
 
 public class CameraFollow : MonoBehaviour
