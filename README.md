@@ -1,7 +1,7 @@
 # Game-Dev-Course-Unity
 Playlist: https://youtube.com/playlist?list=PLE88AN3qf5885q17x_xs3b2KqIiRzZwqu&si=BZBewel_L4OvktHL
 
-Game Engin: Unity 6
+Game Engine: Unity 6
 
 This is the source code repo for unity course uploaded on youtube. 
 
